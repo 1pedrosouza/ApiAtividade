@@ -1,0 +1,25 @@
+{
+    "feed":[
+   
+    {
+        "id":1,
+        "noticia":"LOUD embarca para Dinamarca rumo ao 2º Masters",
+        "descricao":"A LOUD vai viajar nesta segunda-feira (04) para a Dinamarca para a disputa do VALORANT Masters Copenhagen 2022. Única representante do Brasil no campeonato, a equipe irá estrear no dia 10 de julho contra a KRÜ Esports pelo Grupo A. "
+    },
+    {
+        "id":2,
+        "noticia":"Valorant: Riot anuncia novo lote de ingressos para o LCQ",
+        "descricao":"Mais fãs de Valorant poderão acompanhar de perto o Last Chance Qualifier (LCQ). Após os ingressos para o sábado (13/08) terem esgotado rapidamente, e poucos restarem para o domingo (14/08), a Riot Games anunciou um novo lote para o evento. Os ingressos extra estarão disponíveis na próxima segunda-feira (11/07)."
+    },
+    {
+        "id":3,
+        "noticia":"Black Dragons irá ingressar no VALORANT, revela CEO",
+        "descricao":"O cenário de VALORANT no Brasil continua crescendo e com destaque para a cena feminina e o primeiro campeonato em LAN. A CEO e dona da Black Dragons, Nicolle “Cherrygumms” Merhy revelou no Twitter que a próxima modalidade que a organização ingressará será no VALORANT, tanto no misto quanto no feminino."
+    },
+    {
+        "id":4,
+        "noticia":"LOUD aparece entre as organizações mais populares da Twich em junho",
+        "descricao":"A LOUD continua sendo uma das organizações mais populares do mundo. No mês de junho, a LOUD apareceu na quarta posição do ranking de organizações com mais horas assistidas na Twitch, de acordo com dados da plataforma Streams Charts."
+    }
+    ]
+}

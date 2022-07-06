@@ -1,0 +1,46 @@
+{
+    "datalancamento":[
+    {
+        "id":1,
+        "nome":"Loud VS Furia",
+        "data":"11/07/2022"
+        
+    },
+
+    {
+        "id":2,
+        "nome":"Dominators VS Extra Force",
+        "data":"13/07/2022"
+    },
+
+    {
+        "id":3,
+        "nome":"Peak Tribe VS VCT",
+        "data":"16/07/2022"
+    },
+
+    {
+        "id":4,
+        "nome":"Boston VS Team of Legends",
+        "data":"17/07/2022"
+    },
+    {
+        "id":5,
+        "nome":"Generation Z VS Mind Benders",
+        "data":"19/07/2022"
+    },
+    {
+        "id":6,
+        "nome":"Detroit VS Lindor",
+        "data":"20/07/2022"
+    }
+    
+
+
+
+
+
+
+
+    ]
+}
